@@ -1,1 +1,1 @@
-# forty-thieves-solitaire
+# forty-thieves
